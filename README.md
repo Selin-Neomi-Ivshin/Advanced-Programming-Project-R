@@ -3,9 +3,9 @@
 ---
 
 
-## **Advanced Data Analysis in R**
+## **Advanced programming - Data Analysis in R**
 ***
-This is a R-language project which was created as part of "Advanced Data Analysis in R" course in Ben Gurion University, Israel.
+This is a R-language project which was created as part of "Advanced Programming for Data Analysis in R" course in Ben Gurion University, Israel.
 
 To replicate our analysis, please follow the next steps:
 
