@@ -8,6 +8,7 @@
 This is a R-language project which was created as part of "Advanced Data Analysis in R" course in Ben Gurion University, Israel.
 
 To replicate our analysis, please follow the next steps:
+
         o Place the two data sets "Mass Shootings" and "Laws" at the same folder.
 
         o Change the `Mass Shootings.xlsx` file name to `Excels/mass shooting.xlsx`.
@@ -19,6 +20,8 @@ To replicate our analysis, please follow the next steps:
 The output of this file is identical to the results we presented in the submitted report.
 
 
+
+***
 ## **The data:**
 ***
 
